@@ -1,6 +1,7 @@
 {
   "name": "encoderjs",
   "version": "0.0.1",
+   "main": "encoder.js",
   "homepage": "https://github.com/fh-bower-packages/encoderjs",
   "authors": [
     "ferron <ferronrsmith@gmail.com>"
